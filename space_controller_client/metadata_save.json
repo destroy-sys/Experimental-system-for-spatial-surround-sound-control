@@ -1,0 +1,290 @@
+[
+  {
+    "on_off": true,
+    "azi": 9,
+    "ele": 56,
+    "r": 8,
+    "width": 6,
+    "gain": 0,
+    "port": 0
+  },
+  {
+    "on_off": true,
+    "azi": -160,
+    "ele": 0,
+    "r": 50,
+    "width": 0,
+    "gain": 0,
+    "port": 0
+  },
+  {
+    "on_off": false,
+    "azi": 0,
+    "ele": 0,
+    "r": 50,
+    "width": 0,
+    "gain": 0,
+    "port": 0
+  },
+  {
+    "on_off": false,
+    "azi": 0,
+    "ele": 0,
+    "r": 50,
+    "width": 0,
+    "gain": 0,
+    "port": 0
+  },
+  {
+    "on_off": false,
+    "azi": -142,
+    "ele": 0,
+    "r": 50,
+    "width": 0,
+    "gain": 0,
+    "port": 0
+  },
+  {
+    "on_off": false,
+    "azi": 0,
+    "ele": 27,
+    "r": 50,
+    "width": 0,
+    "gain": 0,
+    "port": 0
+  },
+  {
+    "on_off": false,
+    "azi": 0,
+    "ele": 31,
+    "r": 11,
+    "width": 4,
+    "gain": 0,
+    "port": 0
+  },
+  {
+    "on_off": false,
+    "azi": 0,
+    "ele": 0,
+    "r": 50,
+    "width": 0,
+    "gain": 0,
+    "port": 0
+  },
+  {
+    "on_off": false,
+    "azi": 0,
+    "ele": 0,
+    "r": 50,
+    "width": 0,
+    "gain": 0,
+    "port": 0
+  },
+  {
+    "on_off": false,
+    "azi": 0,
+    "ele": 0,
+    "r": 50,
+    "width": 0,
+    "gain": 0,
+    "port": 0
+  },
+  {
+    "on_off": false,
+    "azi": 0,
+    "ele": 0,
+    "r": 50,
+    "width": 0,
+    "gain": 0,
+    "port": 0
+  },
+  {
+    "on_off": false,
+    "azi": 0,
+    "ele": 0,
+    "r": 50,
+    "width": 0,
+    "gain": 0,
+    "port": 0
+  },
+  {
+    "on_off": false,
+    "azi": 0,
+    "ele": 0,
+    "r": 50,
+    "width": 0,
+    "gain": 0,
+    "port": 0
+  },
+  {
+    "on_off": false,
+    "azi": 0,
+    "ele": 0,
+    "r": 50,
+    "width": 0,
+    "gain": 0,
+    "port": 0
+  },
+  {
+    "on_off": false,
+    "azi": 0,
+    "ele": 0,
+    "r": 50,
+    "width": 0,
+    "gain": 0,
+    "port": 0
+  },
+  {
+    "on_off": false,
+    "azi": 0,
+    "ele": 0,
+    "r": 50,
+    "width": 0,
+    "gain": 0,
+    "port": 0
+  },
+  {
+    "on_off": false,
+    "azi": 0,
+    "ele": 0,
+    "r": 50,
+    "width": 0,
+    "gain": 0,
+    "port": 0
+  },
+  {
+    "on_off": false,
+    "azi": 0,
+    "ele": 0,
+    "r": 50,
+    "width": 0,
+    "gain": 0,
+    "port": 0
+  },
+  {
+    "on_off": false,
+    "azi": 0,
+    "ele": 0,
+    "r": 50,
+    "width": 0,
+    "gain": 0,
+    "port": 0
+  },
+  {
+    "on_off": false,
+    "azi": 0,
+    "ele": 0,
+    "r": 50,
+    "width": 0,
+    "gain": 0,
+    "port": 0
+  },
+  {
+    "on_off": false,
+    "azi": 0,
+    "ele": 0,
+    "r": 50,
+    "width": 0,
+    "gain": 0,
+    "port": 0
+  },
+  {
+    "on_off": false,
+    "azi": 0,
+    "ele": 0,
+    "r": 50,
+    "width": 0,
+    "gain": 0,
+    "port": 0
+  },
+  {
+    "on_off": false,
+    "azi": 0,
+    "ele": 0,
+    "r": 50,
+    "width": 0,
+    "gain": 0,
+    "port": 0
+  },
+  {
+    "on_off": false,
+    "azi": 0,
+    "ele": 0,
+    "r": 50,
+    "width": 0,
+    "gain": 0,
+    "port": 0
+  },
+  {
+    "on_off": false,
+    "azi": 0,
+    "ele": 0,
+    "r": 50,
+    "width": 0,
+    "gain": 0,
+    "port": 0
+  },
+  {
+    "on_off": false,
+    "azi": 0,
+    "ele": 0,
+    "r": 50,
+    "width": 0,
+    "gain": 0,
+    "port": 0
+  },
+  {
+    "on_off": false,
+    "azi": 0,
+    "ele": 0,
+    "r": 50,
+    "width": 0,
+    "gain": 0,
+    "port": 0
+  },
+  {
+    "on_off": false,
+    "azi": 0,
+    "ele": 0,
+    "r": 50,
+    "width": 0,
+    "gain": 0,
+    "port": 0
+  },
+  {
+    "on_off": false,
+    "azi": 0,
+    "ele": 0,
+    "r": 50,
+    "width": 0,
+    "gain": 0,
+    "port": 0
+  },
+  {
+    "on_off": false,
+    "azi": 0,
+    "ele": 0,
+    "r": 50,
+    "width": 0,
+    "gain": 0,
+    "port": 0
+  },
+  {
+    "on_off": false,
+    "azi": 0,
+    "ele": 0,
+    "r": 50,
+    "width": 0,
+    "gain": 0,
+    "port": 0
+  },
+  {
+    "on_off": false,
+    "azi": 0,
+    "ele": 0,
+    "r": 50,
+    "width": 0,
+    "gain": 0,
+    "port": 0
+  }
+]
